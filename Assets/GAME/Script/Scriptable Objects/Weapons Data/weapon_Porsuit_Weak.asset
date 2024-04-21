@@ -10,15 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 51e3adf9a2093004386e12a3391c8665, type: 3}
-  m_Name: weapon_Bazuka_variant
+  m_Name: weapon_Porsuit_Weak
   m_EditorClassIdentifier: 
-  weaponName: Bazuka variant
-  description: Arma basica de Marve. Dispara 3 tiros
-  damage: 5
-  lifeProjectileDuration: 0.3
+  weaponName: 
+  description: 
+  damage: 3
+  lifeProjectileDuration: 10
   projectileSpeed: 30
-  fireRate: 0.4
-  projectile: {fileID: 493451203355720252, guid: 608e8cfdf5ff9ab499604d88163118e0,
+  fireRate: 0.6
+  projectile: {fileID: 493451203355720252, guid: 8b4be3d1ccf2a114c9aaa792714195aa,
     type: 3}
+  isPursuit: 1
+  rotationVelocity: 180
   weaponPhoto: {fileID: 0}
-  weponType: 1
+  weponType: 3

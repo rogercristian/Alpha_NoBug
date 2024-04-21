@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3904812817459934840}
   - component: {fileID: 1902810906227760780}
   m_Layer: 11
-  m_Name: Projetil_Base_Marve
+  m_Name: Projetil_Porsuit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65,7 +65,7 @@ MeshRenderer:
   m_RenderingLayerMask: 257
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b209b585b778ae14cae6c7e453b25004, type: 2}
+  - {fileID: 2100000, guid: 370a3df3dbe18b5488dca664e8efdede, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -99,7 +99,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85dde0f76aa5d9246bec8d5797182c95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weaponData: {fileID: 11400000, guid: e29373702d4167c479953ba3a6bff51e, type: 2}
+  weaponData: {fileID: 11400000, guid: 7c161c539ae70ba48bc8aca32de3d3ff, type: 2}
 --- !u!135 &3904812817459934840
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -201,7 +201,7 @@ TrailRenderer:
   m_RenderingLayerMask: 257
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b209b585b778ae14cae6c7e453b25004, type: 2}
+  - {fileID: 2100000, guid: 370a3df3dbe18b5488dca664e8efdede, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -222,7 +222,7 @@ TrailRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Time: 0.05
+  m_Time: 0.3
   m_PreviewTimeScale: 1
   m_Parameters:
     serializedVersion: 3
@@ -241,7 +241,7 @@ TrailRenderer:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
-        value: 0.25
+        value: 0.2
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -253,8 +253,8 @@ TrailRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 0, g: 0.8172679, b: 1, a: 1}
-      key1: {r: 0, g: 0.74163437, b: 1, a: 0}
+      key0: {r: 1, g: 0.5864791, b: 0, a: 1}
+      key1: {r: 1, g: 0.67876756, b: 0, a: 0}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}

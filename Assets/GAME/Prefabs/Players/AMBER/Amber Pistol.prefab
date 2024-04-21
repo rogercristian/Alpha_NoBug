@@ -150,7 +150,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   weaponData: {fileID: 11400000, guid: 1dde2e3a74cc27747a1e8cdc9ae23ba5, type: 2}
-  firePoint: {fileID: 3132780091111307129}
+  firePoint:
+  - {fileID: 3132780091111307129}
+  weponTypes: 0
 --- !u!114 &2081670734707942235
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -163,6 +165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2741c675cd6b4140bd898e7bdb700a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  inputManager: {fileID: 0}
 --- !u!4 &4330711667787481175 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 04bf984781bff10409241af1b4154583,

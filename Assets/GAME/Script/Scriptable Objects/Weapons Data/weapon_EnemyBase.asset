@@ -18,5 +18,6 @@ MonoBehaviour:
   lifeProjectileDuration: 0.1
   projectileSpeed: 10
   fireRate: 1
-  projectile: {fileID: 0}
+  projectile: {fileID: 493451203355720252, guid: f144c2ba66044e342a0d4153149d9e02,
+    type: 3}
   weaponPhoto: {fileID: 0}

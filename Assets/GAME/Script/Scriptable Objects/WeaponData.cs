@@ -13,6 +13,11 @@ public class WeaponData : ScriptableObject
     public float fireRate;
     [Tooltip("A bala que será disparada por esta arma")]
     public GameObject projectile;
+    public bool isPursuit = false;
+    public float rotationVelocity = 100f;
     public Sprite weaponPhoto;
 
+    public enum WeponType { SingleShoot, TripleShoot, MultipleShoot, PursuitShoot }
+
+    public WeponType weponType = WeponType.SingleShoot;
 }

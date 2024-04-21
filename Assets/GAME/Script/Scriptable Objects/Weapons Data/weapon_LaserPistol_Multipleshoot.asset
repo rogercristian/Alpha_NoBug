@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 51e3adf9a2093004386e12a3391c8665, type: 3}
-  m_Name: weapon_Bazuka_variant
+  m_Name: weapon_LaserPistol_Multipleshoot
   m_EditorClassIdentifier: 
-  weaponName: Bazuka variant
-  description: Arma basica de Marve. Dispara 3 tiros
-  damage: 5
-  lifeProjectileDuration: 0.3
+  weaponName: Laser Pistol
+  description: "Arma b\xE1sica de Amber. Fire-rate alto e dano baixo."
+  damage: 1
+  lifeProjectileDuration: 0.5
   projectileSpeed: 30
-  fireRate: 0.4
-  projectile: {fileID: 493451203355720252, guid: 608e8cfdf5ff9ab499604d88163118e0,
+  fireRate: 0.1
+  projectile: {fileID: 493451203355720252, guid: 0d9ad394b5ff95241af81b5380909a43,
     type: 3}
   weaponPhoto: {fileID: 0}
-  weponType: 1
+  weponType: 2

@@ -2,12 +2,13 @@ using UnityEngine;
 
 public class PlayerUseWeapon : MonoBehaviour
 {
-   private Weapon weapon;
-   private InputManager inputManager;
+    private Weapon weapon;
+    private InputManager inputManager;
     private void Start()
     {
-        inputManager = GetComponentInParent<InputManager>();
         weapon = GetComponent<Weapon>();
+        if (inputManager != null) return;
+        inputManager = GetComponentInParent<InputManager>();
     }
     void Update()
     {

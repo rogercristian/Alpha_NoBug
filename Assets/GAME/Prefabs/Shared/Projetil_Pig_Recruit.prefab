@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -1113972300383718890}
   - component: {fileID: 3904812817459934840}
   - component: {fileID: 1902810906227760780}
-  m_Layer: 10
+  m_Layer: 11
   m_Name: Projetil_Pig_Recruit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -158,7 +158,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7371255053329829577}
   - component: {fileID: 6274553265365524617}
-  m_Layer: 10
+  m_Layer: 11
   m_Name: Trail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
