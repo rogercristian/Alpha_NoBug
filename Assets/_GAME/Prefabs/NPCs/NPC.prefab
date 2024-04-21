@@ -16,9 +16,8 @@ GameObject:
   - component: {fileID: 5426114730667717656}
   - component: {fileID: 1070540769113879590}
   - component: {fileID: 8395450271700258166}
-  - component: {fileID: -1010238063404586029}
-  m_Layer: 12
-  m_Name: enemy
+  m_Layer: 0
+  m_Name: NPC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -149,11 +148,11 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 1
-  m_Speed: 3.5
-  m_Acceleration: 8
+  m_Speed: 5
+  m_Acceleration: 5
   avoidancePriority: 50
   m_AngularSpeed: 180
-  m_StoppingDistance: 8
+  m_StoppingDistance: 2
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -176,20 +175,8 @@ MonoBehaviour:
   target: []
   repeatRate: 1
   time: 0.1
-  isEnemy: 1
+  isEnemy: 0
   followPlayer: 1
---- !u!114 &-1010238063404586029
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2404385588584233413}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a97097a2062546b4b9ea423a30d5a131, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &5922458400377530605
 GameObject:
   m_ObjectHideFlags: 0
@@ -201,8 +188,6 @@ GameObject:
   - component: {fileID: 4497016192188804064}
   - component: {fileID: 6383617724860821760}
   - component: {fileID: 4811605600368425631}
-  - component: {fileID: 7218419512979735739}
-  - component: {fileID: 2426858097180480323}
   m_Layer: 12
   m_Name: Cube
   m_TagString: Untagged
@@ -275,31 +260,3 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &7218419512979735739
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5922458400377530605}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 92dd598a86588984588c152a225bdc94, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  weaponData: {fileID: 11400000, guid: 47a92f9bc95c5b0469fcacffa06c7c8d, type: 2}
-  firePoint:
-  - {fileID: 4497016192188804064}
---- !u!114 &2426858097180480323
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5922458400377530605}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2372ee88825152444a0656bc08a3b521, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  weapon: {fileID: 0}
