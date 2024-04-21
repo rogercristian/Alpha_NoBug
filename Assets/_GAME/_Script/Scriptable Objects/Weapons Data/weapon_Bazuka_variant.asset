@@ -20,5 +20,7 @@ MonoBehaviour:
   fireRate: 0.4
   projectile: {fileID: 493451203355720252, guid: 608e8cfdf5ff9ab499604d88163118e0,
     type: 3}
-  weaponPhoto: {fileID: 0}
+  isPursuit: 0
+  maxDegreesDelta: 100
+  weaponPhoto: {fileID: 21300000, guid: 384c6b77ca6a55f4fbbe55a00aafa3e6, type: 3}
   weponType: 1
