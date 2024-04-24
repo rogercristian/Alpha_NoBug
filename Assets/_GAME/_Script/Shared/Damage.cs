@@ -14,7 +14,7 @@ public class Damage : MonoBehaviour
 
     }
     private void HpManager_OnDie()
-    {
+    { 
         Destroy(gameObject);
     }
 }

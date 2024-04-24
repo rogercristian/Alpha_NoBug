@@ -9,7 +9,16 @@ public class GameEvents : MonoBehaviour
     public event Action<int> OnReposition;
     public event Action OnSeekPlayer;
     public event Action OnSelectSkin;
+
     public void Reposition(int id) => OnReposition?.Invoke(id);
     public void SeekPlayer() => OnSeekPlayer?.Invoke();
     public void SelectSkin() => OnSelectSkin?.Invoke();
+
+    public event Action<DialogData> OnStartDialog;
+    public void StartDialog(DialogData dialogData) => OnStartDialog?.Invoke(dialogData);
+
+   // public event Action<DialogData> OnCancelDialog;
+    public event Action OnFinishDialog;
+    public void FinishDialog() => OnFinishDialog?.Invoke();
+
 }

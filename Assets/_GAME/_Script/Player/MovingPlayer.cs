@@ -13,16 +13,41 @@ public class MovingPlayer : MonoBehaviour
     [SerializeField] private float gravityValue = -9.81f;
     [SerializeField] private float groundedDistance = 1.0f;
 
+    private bool canMove = true;
     // Vector3 downVelocity;
 
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         inputManager = GetComponentInParent<InputManager>();
+
+        GameEvents.Instance.OnStartDialog += HandlerOnStartDialog;
+        GameEvents.Instance.OnFinishDialog += HandlerOnFinishDialog;
     }
+    private void OnDestroy()
+    {
+        GameEvents.Instance.OnStartDialog -= HandlerOnStartDialog;
+        GameEvents.Instance.OnFinishDialog -= HandlerOnFinishDialog;
+    }
+    private void HandlerOnStartDialog(DialogData dialogData)
+    {
+        canMove = false;
+    }
+    private void HandlerOnFinishDialog()
+    {
+        canMove = true;
+      //  direction = input.x * Vector3.right + input.y * Vector3.forward;
+
+    }
+
 
     void Update()
     {
+        if (!canMove)
+        {          
+            return;
+        }
+
         if (rb.velocity.y <= 0)
         {
             rb.velocity = Vector3.up * gravityValue;
@@ -55,6 +80,11 @@ public class MovingPlayer : MonoBehaviour
     }
     void MoveCharacter()
     {
+        if (!canMove)
+        {
+            transform.Translate(Vector3.zero);
+            return;
+        }
         direction = input.x * Vector3.right + input.y * Vector3.forward;
         direction.Normalize();
         transform.Translate(direction * speed * Time.deltaTime, Space.World);

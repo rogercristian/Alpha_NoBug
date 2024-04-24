@@ -27,10 +27,10 @@ public class PlayerUIPanel : MonoBehaviour
         playerStats = ManualPlayerJoin.instance.playerList[index].GetComponent<PlayerInputHandler>().GetComponentInChildren<PlayerStats>();
         hpManager = ManualPlayerJoin.instance.playerList[index].GetComponent<PlayerInputHandler>().GetComponentInChildren<HpManager>();
         //print(movingPlayer.name);
-        SetUpInfoPanel();
+        SetUpInfoPanel(index);
     }
 
-    private void SetUpInfoPanel()
+    private void SetUpInfoPanel(int index)
     {
         if (movingPlayer != null)
         {
@@ -42,6 +42,7 @@ public class PlayerUIPanel : MonoBehaviour
             //foto
             photo.sprite = playerStats.Sprite();
 
+            //atualiza o lifebar
             hpManager.OnLifeChanged += HandlerOnLifeChanged;
 
         }

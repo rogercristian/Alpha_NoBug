@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cc2f06b0e27db7448954841838dcd60, type: 3}
+  m_Name: NPC_Test
+  m_EditorClassIdentifier: 
+  Sentences:
+  - ActorData: {fileID: 11400000, guid: 6243c2be0c4f06641a1ec6444eab20a3, type: 2}
+    Content: "Oi \xE9 um teste.\nSegue pra proxima linha"
+  - ActorData: {fileID: 11400000, guid: 272b7bc8a8626ec459480905bd814307, type: 2}
+    Content: Estou funcionando?

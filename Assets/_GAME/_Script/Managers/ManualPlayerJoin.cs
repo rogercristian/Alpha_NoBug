@@ -68,7 +68,7 @@ public class ManualPlayerJoin : MonoBehaviour
     }
     private void UnregisterPlayer(PlayerInput playerInput)
     {
-        playerList.Remove(playerInput);
+       // playerList.Remove(playerInput);
 
         if (PlayerLeftGame != null)
         {
@@ -76,5 +76,6 @@ public class ManualPlayerJoin : MonoBehaviour
         }
 
         Destroy(playerInput.transform.gameObject);
+      
     }
 }
