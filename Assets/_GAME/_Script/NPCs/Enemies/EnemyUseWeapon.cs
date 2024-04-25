@@ -1,4 +1,3 @@
-using System.Collections;
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -12,14 +11,25 @@ public class EnemyUseWeapon : MonoBehaviour
     {
         weapon = GetComponent<Weapon>();
         agent = GetComponentInParent<NavMeshAgent>();
+
+        GameEvents.Instance.OnSeekPlayer += HandlerOnSeekPlayer;
     }
 
+    private void HandlerOnSeekPlayer()
+    {
+        player = FindAnyObjectByType<MovingPlayer>().transform;
+    }
+    private void OnDestroy()
+    {
+        GameEvents.Instance.OnSeekPlayer -= HandlerOnSeekPlayer;
+    }
     // Update is called once per frame
     void FixedUpdate()
     {
         if (agent != null)
         {
-            player = FindAnyObjectByType<MovingPlayer>().transform;
+
+            if (player == null) return;
             float dist = Vector3.Distance(transform.position, player.transform.position);
 
             if (dist <= agent.stoppingDistance)
@@ -28,5 +38,5 @@ public class EnemyUseWeapon : MonoBehaviour
             }
         }
     }
-    
+
 }
