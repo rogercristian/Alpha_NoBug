@@ -35,6 +35,7 @@ public class NavigationAgentControl : MonoBehaviour
 
         int rand = Random.Range(0, target.Length);
         agent.destination = target[rand].transform.position;
+        
 
         //Debug.Log(rand);
     }
