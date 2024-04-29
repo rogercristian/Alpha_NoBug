@@ -132,14 +132,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1015481763653263324}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.08715578, y: 0, z: 0, w: 0.9961947}
+  m_LocalRotation: {x: 0.13052616, y: 0, z: 0, w: 0.9914449}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7080506734268843666}
   m_Father: {fileID: 4759573713889640465}
-  m_LocalEulerAnglesHint: {x: 10, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 15, y: 0, z: 0}
 --- !u!114 &7953314646389368288
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -161,10 +161,10 @@ MonoBehaviour:
   m_LookAt: {fileID: 0}
   m_Follow: {fileID: 0}
   m_Lens:
-    FieldOfView: 33
-    OrthographicSize: 4
+    FieldOfView: 40
+    OrthographicSize: 6
     NearClipPlane: 0.01
-    FarClipPlane: 1000
+    FarClipPlane: 2000
     Dutch: 0
     ModeOverride: 2
     LensShift: {x: 0, y: 0}
@@ -258,7 +258,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 79.97891, y: 26.76902, z: 35.884487}
+  m_Size: {x: 40.29492, y: 26.76902, z: 35.884487}
   m_Center: {x: -16.073128, y: 7.2839947, z: -10.216871}
 --- !u!114 &560839003760846266
 MonoBehaviour:
@@ -337,6 +337,7 @@ GameObject:
   - component: {fileID: 7080506734268843666}
   - component: {fileID: 5940106480443585070}
   - component: {fileID: 8640083724570596866}
+  - component: {fileID: 816262833830166777}
   m_Layer: 0
   m_Name: cm
   m_TagString: Untagged
@@ -384,10 +385,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 0
-  m_FollowOffset: {x: 0, y: 3, z: -20}
+  m_FollowOffset: {x: 0, y: 3, z: -10}
   m_XDamping: 0
   m_YDamping: 0
   m_ZDamping: 0
+  m_AngularDampingMode: 0
+  m_PitchDamping: 0
+  m_YawDamping: 0
+  m_RollDamping: 0
+  m_AngularDamping: 0
+--- !u!114 &816262833830166777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3762318469179470181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa7155796051b734daa718462081dc5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_BindingMode: 1
+  m_FollowOffset: {x: 0, y: 0, z: -10}
+  m_XDamping: 1
+  m_YDamping: 1
+  m_ZDamping: 1
   m_AngularDampingMode: 0
   m_PitchDamping: 0
   m_YawDamping: 0
@@ -522,10 +545,10 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -33, y: 15}
-      - {x: -33, y: -10}
-      - {x: 23, y: -10}
-      - {x: 23, y: 15}
+    - - {x: -33, y: 14}
+      - {x: -33, y: -2}
+      - {x: 3, y: -2}
+      - {x: 3, y: 14}
   m_UseDelaunayMesh: 0
 --- !u!1 &7175630691260519162
 GameObject:
@@ -627,17 +650,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 32153602267332e4c88c35c285ea0d95,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 32153602267332e4c88c35c285ea0d95,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 32153602267332e4c88c35c285ea0d95,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 32153602267332e4c88c35c285ea0d95,
         type: 3}
@@ -647,7 +670,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 32153602267332e4c88c35c285ea0d95,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 32153602267332e4c88c35c285ea0d95,
         type: 3}
@@ -692,7 +715,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 32153602267332e4c88c35c285ea0d95,
         type: 3}
       propertyPath: m_ConstrainProportionsScale
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 32153602267332e4c88c35c285ea0d95,
         type: 3}

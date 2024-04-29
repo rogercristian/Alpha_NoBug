@@ -16,7 +16,7 @@ public class NavigationAgentControl : MonoBehaviour
 
         agent.autoBraking = false;
         if (followPlayer && isEnemy)
-            InvokeRepeating("UpdateSearch", time, repeatRate);
+            InvokeRepeating("UpdateSearch",Random.Range(0,time),Random.Range(0,repeatRate));
         
     }
     private void Update()
