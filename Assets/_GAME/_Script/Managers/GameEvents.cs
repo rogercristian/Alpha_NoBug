@@ -22,4 +22,9 @@ public class GameEvents : MonoBehaviour
     public event Action OnFinishDialog;
     public void FinishDialog() => OnFinishDialog?.Invoke();
 
+    public event Action<string> OnAnimationChange;
+    public void AnimationChange(string newstate) => OnAnimationChange?.Invoke(newstate);
+
+    public event Action CanChangeAnimation;
+    public void CanChangeAnim() => CanChangeAnimation?.Invoke();
 }

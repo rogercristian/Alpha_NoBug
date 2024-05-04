@@ -5,7 +5,7 @@ public class PlayerUseWeapon : MonoBehaviour
     private Weapon weapon;
     private InputManager inputManager;
 
-    bool canShoot = true;
+    bool canShoot = true;    
     private void Start()
     {
         weapon = GetComponent<Weapon>();
@@ -15,17 +15,21 @@ public class PlayerUseWeapon : MonoBehaviour
         GameEvents.Instance.OnFinishDialog += HandlerOnFinishDialog;
     }
 
+    private void OnDestroy()
+    {
+        GameEvents.Instance.OnStartDialog -= HandleOnStartDialog;
+        GameEvents.Instance.OnFinishDialog -= HandlerOnFinishDialog;
+    }
     private void HandleOnStartDialog(DialogData dialogData) => canShoot = false;
-
 
     private void HandlerOnFinishDialog() => canShoot = true;
     void Update()
-    {
+    {       
         if (!canShoot) return;
         float buttonRt = inputManager.GetButtonRtPressed();
 
         if (buttonRt > 0.1f || inputManager.GetInteractPressed())
-        {
+        {                      
             weapon.Shoot();
         }
     }

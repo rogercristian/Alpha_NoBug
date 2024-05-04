@@ -13,17 +13,20 @@ public class MovingPlayer : MonoBehaviour
     [SerializeField] private float gravityValue = -9.81f;
     [SerializeField] private float groundedDistance = 1.0f;
 
-    private bool canMove = true;
-    // Vector3 downVelocity;
+    private bool canMove = true;    
 
+    private Animator animator;
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         inputManager = GetComponentInParent<InputManager>();
+        animator = GetComponentInParent<Animator>();
 
         GameEvents.Instance.OnStartDialog += HandlerOnStartDialog;
         GameEvents.Instance.OnFinishDialog += HandlerOnFinishDialog;
     }
+
+
     private void OnDestroy()
     {
         GameEvents.Instance.OnStartDialog -= HandlerOnStartDialog;
@@ -36,27 +39,40 @@ public class MovingPlayer : MonoBehaviour
     private void HandlerOnFinishDialog()
     {
         canMove = true;
-      //  direction = input.x * Vector3.right + input.y * Vector3.forward;
-
     }
 
 
     void Update()
     {
-        if (!canMove)
-        {          
-            return;
-        }
 
-        if (rb.velocity.y <= 0)
+        if (!canMove)
         {
-            rb.velocity = Vector3.up * gravityValue;
+            return;
         }
 
         input = inputManager.GetMoveDirection();
 
-        Jumping();
+        if (rb.velocity.y <= 0)
+        {
+            rb.velocity = Vector3.up * gravityValue;
+            animator.SetBool("Jump",false);
+        }
 
+        if (inputManager.GetMoveDirection() == Vector2.zero && IsGrounded())
+            animator.SetFloat("Direction", direction.magnitude); animator.SetBool("Jump", false);
+      
+        if (!IsGrounded())
+            animator.SetBool("Jump", true);
+       
+        else if (!IsGrounded() && inputManager.GetMoveDirection() != Vector2.zero)
+            animator.SetBool("Jump", true);
+        // walk animation
+        if (inputManager.GetMoveDirection() != Vector2.zero)
+            animator.SetFloat("Direction", direction.magnitude);
+       
+
+        Jumping();
+        CanShootAnim();
         Debug.Log(Physics.Raycast(transform.position, Vector3.down, groundedDistance));
         Debug.DrawRay(transform.position, Vector3.down, Color.red, groundedDistance);
     }
@@ -88,13 +104,30 @@ public class MovingPlayer : MonoBehaviour
         direction = input.x * Vector3.right + input.y * Vector3.forward;
         direction.Normalize();
         transform.Translate(direction * speed * Time.deltaTime, Space.World);
+
+
     }
     void Jumping()
     {
         // Changes the height position of the player..
         if (inputManager.GetSubmitPressed() && IsGrounded())
         {
+
             rb.velocity = Vector3.up * jumpHeight;
+            // jump animation
         }
+    }
+
+    private void CanShootAnim()
+    {
+        if (inputManager.GetInteractPressed())
+        {
+            animator.SetBool("Shoot", true);
+        }
+        if (!inputManager.GetInteractPressed())
+        {
+            animator.SetBool("Shoot", false);
+        }
+        
     }
 }
