@@ -47,6 +47,7 @@ public class MovingPlayer : MonoBehaviour
 
         if (!canMove)
         {
+            animator.SetFloat("Direction", 0f);
             return;
         }
 
