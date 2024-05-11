@@ -142,6 +142,7 @@ GameObject:
   - component: {fileID: 2850919761091673330}
   - component: {fileID: 4692169474468639941}
   - component: {fileID: 3490940694823292871}
+  - component: {fileID: 4206932168161372802}
   m_Layer: 7
   m_Name: PlayerControllerMarve
   m_TagString: Untagged
@@ -188,9 +189,9 @@ CapsuleCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.5
-  m_Height: 2
+  m_Height: 1.9492564
   m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Center: {x: 0, y: 0.02537179, z: 0}
 --- !u!54 &9139520645690343143
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -235,6 +236,7 @@ MonoBehaviour:
   jumpHeight: 7
   gravityValue: -9.81
   groundedDistance: 1.5
+  canJump: 0
 --- !u!114 &8769170062980357883
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -411,6 +413,18 @@ MonoBehaviour:
   - {fileID: 6350564280207624533}
   - {fileID: 2953418965082154810}
   - {fileID: 8167448623661350087}
+--- !u!114 &4206932168161372802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5508079901051000184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2741c675cd6b4140bd898e7bdb700a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6321946208670454427
 GameObject:
   m_ObjectHideFlags: 0
@@ -1255,6 +1269,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bazuka
+      objectReference: {fileID: 0}
+    - target: {fileID: 517505410340760026, guid: 16de27493b416214baac55603ea98dad,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 893222086477378400, guid: 16de27493b416214baac55603ea98dad,
         type: 3}

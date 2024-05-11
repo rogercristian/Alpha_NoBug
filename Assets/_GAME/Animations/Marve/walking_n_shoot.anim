@@ -2351,7 +2351,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.20130299, z: 0}
+        value: {x: 0, y: 0.20130299, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2526,7 +2526,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.20130299, z: 0}
+        value: {x: 0, y: 0.20130299, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2701,7 +2701,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.2745482, z: 0}
+        value: {x: 0, y: 0.2745482, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2726,7 +2726,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.2745482, z: 0}
+        value: {x: 0, y: 0.2745482, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2751,7 +2751,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.28131938, z: 0}
+        value: {x: 0, y: 0.28131938, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2901,7 +2901,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.08522639, z: 0}
+        value: {x: 0, y: 0.08522639, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3026,7 +3026,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.07906197, z: 0}
+        value: {x: 0, y: 0.07906197, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3151,7 +3151,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.09199225, z: 0}
+        value: {x: 0, y: 0.09199225, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3276,7 +3276,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.083222225, z: 0}
+        value: {x: 0, y: 0.083222225, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3501,7 +3501,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.08522639, z: 0}
+        value: {x: 0, y: 0.08522639, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3626,7 +3626,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.07906197, z: 0}
+        value: {x: 0, y: 0.07906197, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3751,7 +3751,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.09199225, z: 0}
+        value: {x: 0, y: 0.09199225, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3776,7 +3776,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.04997624, z: -0.000000040978193}
+        value: {x: 0, y: 0.04997624, z: -0.000000040978193}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3876,7 +3876,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.083222225, z: 0}
+        value: {x: 0, y: 0.083222225, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -4126,7 +4126,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -7667,7 +7667,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -8297,7 +8297,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -8927,7 +8927,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -9017,7 +9017,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -9107,7 +9107,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -9647,7 +9647,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10097,7 +10097,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10547,7 +10547,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10997,7 +10997,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -11807,7 +11807,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -12257,7 +12257,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -12707,7 +12707,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -12797,7 +12797,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -13157,7 +13157,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -14057,7 +14057,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -21150,7 +21150,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Teta_.R/Teta_.R_end
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21162,7 +21162,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Teta_.R/Teta_.R_end
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21174,7 +21174,187 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Teta_.R/Teta_.R_end
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/indicador.L/indicador.002.L/indicador.004.L/indicador.006.L
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/indicador.L/indicador.002.L/indicador.004.L/indicador.006.L
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/indicador.L/indicador.002.L/indicador.004.L/indicador.006.L
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Bazuka/firePoint
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Bazuka/firePoint
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Bazuka/firePoint
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: MarveBones/Pelvis/quadril.L/quadril.002.L/coxa.L/canela.L/calcanhar.L/dedo_pe.L/dedo_pe.L_end
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: MarveBones/Pelvis/quadril.L/quadril.002.L/coxa.L/canela.L/calcanhar.L/dedo_pe.L/dedo_pe.L_end
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: MarveBones/Pelvis/quadril.L/quadril.002.L/coxa.L/canela.L/calcanhar.L/dedo_pe.L/dedo_pe.L_end
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo/cabelo.004/cabelo.001/cabelo.002/cabelo.003/cabelo.003_end
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo/cabelo.004/cabelo.001/cabelo.002/cabelo.003/cabelo.003_end
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo/cabelo.004/cabelo.001/cabelo.002/cabelo.003/cabelo.003_end
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R/calcanhar.R
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R/calcanhar.R
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R/calcanhar.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21222,7 +21402,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002
+    path: MarveBones/Pelvis/quadril.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21234,7 +21414,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002
+    path: MarveBones/Pelvis/quadril.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21246,7 +21426,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002
+    path: MarveBones/Pelvis/quadril.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21258,7 +21438,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/quadril.R
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21270,7 +21450,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/quadril.R
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21282,7 +21462,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/quadril.R
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21330,222 +21510,6 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R/calcanhar.R/dedo_pe.R
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R/calcanhar.R/dedo_pe.R
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R/calcanhar.R/dedo_pe.R
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.R
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.R
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.R
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/quadril.R/quadril.002.R
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/quadril.R/quadril.002.R
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/quadril.R/quadril.002.R
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/quadril.L/quadril.002.L
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/quadril.L/quadril.002.L
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/quadril.L/quadril.002.L
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
     path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R
     classID: 4
     script: {fileID: 0}
@@ -21582,7 +21546,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/quadril.L/quadril.002.L/coxa.L/canela.L/calcanhar.L/dedo_pe.L/dedo_pe.L_end
+    path: MarveBones/Pelvis/quadril.R/quadril.002.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21594,7 +21558,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/quadril.L/quadril.002.L/coxa.L/canela.L/calcanhar.L/dedo_pe.L/dedo_pe.L_end
+    path: MarveBones/Pelvis/quadril.R/quadril.002.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21606,7 +21570,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/quadril.L/quadril.002.L/coxa.L/canela.L/calcanhar.L/dedo_pe.L/dedo_pe.L_end
+    path: MarveBones/Pelvis/quadril.R/quadril.002.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21762,7 +21726,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo/cabelo.004/cabelo.001/cabelo.002/cabelo.003/cabelo.003_end
+    path: MarveBones/Pelvis/quadril.L/quadril.002.L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21774,7 +21738,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo/cabelo.004/cabelo.001/cabelo.002/cabelo.003/cabelo.003_end
+    path: MarveBones/Pelvis/quadril.L/quadril.002.L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21786,7 +21750,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo/cabelo.004/cabelo.001/cabelo.002/cabelo.003/cabelo.003_end
+    path: MarveBones/Pelvis/quadril.L/quadril.002.L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21870,7 +21834,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Teta_.L
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo/cabelo.004/cabelo.001
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21882,7 +21846,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Teta_.L
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo/cabelo.004/cabelo.001
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21894,7 +21858,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Teta_.L
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo/cabelo.004/cabelo.001
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22014,7 +21978,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo/cabelo.004/cabelo.001
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.R/Braco.002.R/Braco.004.R/Mao.R/indicador.R/indicador.002.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22026,7 +21990,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo/cabelo.004/cabelo.001
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.R/Braco.002.R/Braco.004.R/Mao.R/indicador.R/indicador.002.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22038,7 +22002,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo/cabelo.004/cabelo.001
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.R/Braco.002.R/Braco.004.R/Mao.R/indicador.R/indicador.002.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22086,7 +22050,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Teta_.R/Teta_.R_end
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22098,7 +22062,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Teta_.R/Teta_.R_end
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22110,7 +22074,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Teta_.R/Teta_.R_end
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/cabeca/cabelo
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22194,7 +22158,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.R/Braco.002.R/Braco.004.R/Mao.R/indicador.R/indicador.002.R
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Teta_.L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22206,7 +22170,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.R/Braco.002.R/Braco.004.R/Mao.R/indicador.R/indicador.002.R
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Teta_.L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22218,7 +22182,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.R/Braco.002.R/Braco.004.R/Mao.R/indicador.R/indicador.002.R
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Teta_.L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22914,7 +22878,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/indicador.L/indicador.002.L/indicador.004.L/indicador.006.L
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22926,7 +22890,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/indicador.L/indicador.002.L/indicador.004.L/indicador.006.L
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22938,7 +22902,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/indicador.L/indicador.002.L/indicador.004.L/indicador.006.L
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23535,7 +23499,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L/Dedao.004.L/Dedao.006.L/Dedao.006.L_end
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23547,7 +23511,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L/Dedao.004.L/Dedao.006.L/Dedao.006.L_end
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23559,7 +23523,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L/Dedao.004.L/Dedao.006.L/Dedao.006.L_end
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23751,7 +23715,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Bazuka/firePoint
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23763,7 +23727,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Bazuka/firePoint
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23775,7 +23739,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Bazuka/firePoint
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23859,7 +23823,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R/calcanhar.R
+    path: MarveBones/Pelvis/Coluna
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23871,7 +23835,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R/calcanhar.R
+    path: MarveBones/Pelvis/Coluna
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23883,7 +23847,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R/calcanhar.R
+    path: MarveBones/Pelvis/Coluna
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23895,7 +23859,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L/Dedao.004.L
+    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23907,7 +23871,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L/Dedao.004.L
+    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23919,7 +23883,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L/Dedao.004.L
+    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23931,7 +23895,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23943,7 +23907,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -23955,7 +23919,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -24003,7 +23967,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L/Dedao.004.L/Dedao.006.L/Dedao.006.L_end
+    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R/calcanhar.R/dedo_pe.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -24015,7 +23979,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L/Dedao.004.L/Dedao.006.L/Dedao.006.L_end
+    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R/calcanhar.R/dedo_pe.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -24027,7 +23991,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L/Dedao.004.L/Dedao.006.L/Dedao.006.L_end
+    path: MarveBones/Pelvis/quadril.R/quadril.002.R/coxa.R/canela.R/calcanhar.R/dedo_pe.R
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -24064,6 +24028,42 @@ AnimationClip:
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
     path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L/Dedao.004.L/Dedao.006.L
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L/Dedao.004.L
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L/Dedao.004.L
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: MarveBones/Pelvis/Coluna/Coluna.001/Coluna.002/Braco.L/Braco.002.L/Braco.004.L/Mao.L/Dedao.L/Dedao.002.L/Dedao.004.L
     classID: 4
     script: {fileID: 0}
     flags: 0

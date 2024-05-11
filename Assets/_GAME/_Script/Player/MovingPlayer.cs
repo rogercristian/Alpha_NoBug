@@ -12,7 +12,7 @@ public class MovingPlayer : MonoBehaviour
     [SerializeField] private float jumpHeight = 2.0f;
     [SerializeField] private float gravityValue = -9.81f;
     [SerializeField] private float groundedDistance = 1.0f;
-
+    [SerializeField] bool canJump;
     private bool canMove = true;    
 
     private Animator animator;
@@ -70,12 +70,13 @@ public class MovingPlayer : MonoBehaviour
         // walk animation
         if (inputManager.GetMoveDirection() != Vector2.zero)
             animator.SetFloat("Direction", direction.magnitude);
-       
 
-        Jumping();
+
         CanShootAnim();
         Debug.Log(Physics.Raycast(transform.position, Vector3.down, groundedDistance));
         Debug.DrawRay(transform.position, Vector3.down, Color.red, groundedDistance);
+        // se pulo estiver habilitado:
+        if(canJump) Jumping();
     }
     bool IsGrounded()
     {
