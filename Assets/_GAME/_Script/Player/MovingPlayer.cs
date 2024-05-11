@@ -67,6 +67,8 @@ public class MovingPlayer : MonoBehaviour
        
         else if (!IsGrounded() && inputManager.GetMoveDirection() != Vector2.zero)
             animator.SetBool("Jump", true);
+        else if(IsGrounded())
+            animator.SetBool("Jump", false);
         // walk animation
         if (inputManager.GetMoveDirection() != Vector2.zero)
             animator.SetFloat("Direction", direction.magnitude);
@@ -114,7 +116,6 @@ public class MovingPlayer : MonoBehaviour
         // Changes the height position of the player..
         if (inputManager.GetSubmitPressed() && IsGrounded())
         {
-
             rb.velocity = Vector3.up * jumpHeight;
             // jump animation
         }
@@ -129,7 +130,6 @@ public class MovingPlayer : MonoBehaviour
         if (!inputManager.GetInteractPressed())
         {
             animator.SetBool("Shoot", false);
-        }
-        
+        }        
     }
 }

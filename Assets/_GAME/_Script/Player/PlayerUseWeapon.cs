@@ -5,7 +5,7 @@ public class PlayerUseWeapon : MonoBehaviour
 {
     private Weapon weapon;
     private InputManager inputManager;
-    Animator animator;
+    
     bool canShoot = true;    
     private void Start()
     {
@@ -14,7 +14,7 @@ public class PlayerUseWeapon : MonoBehaviour
         inputManager = GetComponentInParent<InputManager>();
         GameEvents.Instance.OnStartDialog += HandleOnStartDialog;
         GameEvents.Instance.OnFinishDialog += HandlerOnFinishDialog;
-        animator = GetComponentInParent<Animator>();
+       
     }
 
     private void OnDestroy()
@@ -39,6 +39,6 @@ public class PlayerUseWeapon : MonoBehaviour
     }
     IEnumerator DelayFrame()
     {
-        yield return new WaitForEndOfFrame();
+        yield return new WaitForSeconds(0);
     }
 }
