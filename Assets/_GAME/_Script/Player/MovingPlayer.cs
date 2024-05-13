@@ -48,6 +48,7 @@ public class MovingPlayer : MonoBehaviour
         if (!canMove)
         {
             animator.SetFloat("Direction", 0f);
+            animator.SetBool("Shoot", false);
             return;
         }
 

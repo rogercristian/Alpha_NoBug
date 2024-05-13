@@ -34,9 +34,9 @@ public class NavigationAgentControl : MonoBehaviour
         if (target.Length == 0) return;
 
         int rand = Random.Range(0, target.Length);
-        agent.destination = target[rand].transform.position;
-        
-
+       // agent.destination = target[rand].transform.position;
+        agent.SetDestination(target[rand].transform.position);
+        agent.transform.LookAt(target[rand].transform.position);
         //Debug.Log(rand);
     }
 

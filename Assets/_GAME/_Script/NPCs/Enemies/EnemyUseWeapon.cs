@@ -3,7 +3,7 @@ using UnityEngine.AI;
 
 public class EnemyUseWeapon : MonoBehaviour
 {
-    [SerializeField] Weapon weapon;
+    /*[SerializeField]*/ Weapon weapon;
     NavMeshAgent agent;
     Transform player;
     // Start is called before the first frame update
@@ -34,6 +34,7 @@ public class EnemyUseWeapon : MonoBehaviour
 
             if (dist <= agent.stoppingDistance)
             {
+              
                 weapon.Shoot();
             }
         }

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5eff968decd4374498798a6bc55b2ce7, type: 3}
   m_Name: character_Test_NPC
   m_EditorClassIdentifier: 
-  characterPhoto: {fileID: 21300000, guid: 384c6b77ca6a55f4fbbe55a00aafa3e6, type: 3}
+  characterPhoto: {fileID: 21300000, guid: 3b2b994e1c395ae4ab065ee3b7a54176, type: 3}
   id: 0
   characterName: Test NPC
   level: 0
