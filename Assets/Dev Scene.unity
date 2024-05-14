@@ -39,7 +39,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 2928.262, g: 1567.0452, b: 656.08307, a: 1}
+  m_IndirectSpecularColor: {r: 2912.8733, g: 1553.761, b: 644.68024, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -483,6 +483,148 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!1001 &31328198
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -170.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 77.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
+--- !u!1001 &37974035
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -222.87695
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.4510498
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
+--- !u!4 &40344116 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 304429967}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &50726789 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: dbeb26ac37e023c4fa15eee637bc8d88,
@@ -523,6 +665,74 @@ Transform:
   - {fileID: 1732432986}
   m_Father: {fileID: 1486179666}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &62214063
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -209.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 90.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &67367367
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -695,6 +905,74 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!1001 &97599865
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -201.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 90.24072
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (19)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!4 &97953768 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: dbeb26ac37e023c4fa15eee637bc8d88,
@@ -794,6 +1072,153 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!4 &107001928 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 2080897477}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &117167638
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7009852138631625678, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -129.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -44.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 89.709274
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (35)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
+--- !u!1001 &120375135
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -173.93999
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 76.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &125873405
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -892,6 +1317,74 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1768273823}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &142181450
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -171.56999
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 78.799995
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &143380621
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1120,17 +1613,103 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   intervalBetweenChars: 0.05
+--- !u!4 &155160191 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 648015730}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &163718232 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 174610466}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &170295075 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: dbeb26ac37e023c4fa15eee637bc8d88,
     type: 3}
   m_PrefabInstance: {fileID: 1748708607}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &174610466
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -171.62999
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 74.369995
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!4 &179326733 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 32153602267332e4c88c35c285ea0d95,
     type: 3}
   m_PrefabInstance: {fileID: 1099124249}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &185312113 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 679069445}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &191243213
 PrefabInstance:
@@ -1216,6 +1795,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 32153602267332e4c88c35c285ea0d95,
     type: 3}
   m_PrefabInstance: {fileID: 1522160308}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &207133054 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 357117083}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &220721846 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 955769469}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &251502373 stripped
 Transform:
@@ -1456,6 +2047,74 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1263105918}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &304429967
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -131.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 88.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (27)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1 &338126153
 GameObject:
   m_ObjectHideFlags: 0
@@ -1592,6 +2251,74 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 32153602267332e4c88c35c285ea0d95, type: 3}
+--- !u!1001 &357117083
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -126.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 90.12927
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (29)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &359864823
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1691,6 +2418,74 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 646188017}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &368544220
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -200
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 88.890724
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (18)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1 &368699989
 GameObject:
   m_ObjectHideFlags: 0
@@ -1910,6 +2705,80 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!1001 &421917978
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -129.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 87.610725
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (34)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
+--- !u!4 &443161147 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 2096270229}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &456971164
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2290,11 +3159,91 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 509639235}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &515010407
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -238.51001
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 74.680725
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (22)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
+--- !u!4 &522404840 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 368544220}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &524257247 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4851388802338007089, guid: 15bfc68e016aa844db365cd33698d3ea,
     type: 3}
   m_PrefabInstance: {fileID: 8508094260353586390}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &524447219 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1403499461}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &524466204 stripped
 Transform:
@@ -3323,6 +4272,168 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!1001 &648015730
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -211.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 90.24072
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
+--- !u!1001 &660009385
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1399758980}
+    m_Modifications:
+    - target: {fileID: 977081453890228612, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1996437998710019182, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6725173906716527970, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7355740110740083965, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_Name
+      value: GAS (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7355740110740083965, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -69.87695
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -42.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 173.45105
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 01c2470bef1e54e408349c8d8f290ced, type: 3}
+--- !u!4 &660009386 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+    type: 3}
+  m_PrefabInstance: {fileID: 660009385}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &662692163
 GameObject:
   m_ObjectHideFlags: 0
@@ -3372,6 +4483,74 @@ MonoBehaviour:
   blendDistance: 0
   weight: 1
   sharedProfile: {fileID: 11400000, guid: 8ba92e2dd7f884a0f88b98fa2d235fe7, type: 2}
+--- !u!1001 &668809425
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -172.13695
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 50.600323
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &675394696
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3446,6 +4625,74 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 32153602267332e4c88c35c285ea0d95, type: 3}
+--- !u!1001 &679069445
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -172.52998
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 77.389275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &680886023
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3588,6 +4835,74 @@ PrefabInstance:
       addedObject: {fileID: 1807748634}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1642bb721b5bfcf4baaab872e9d80e8e, type: 3}
+--- !u!1001 &684638826
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -172.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 75.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &687638993
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3761,6 +5076,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!4 &698713658 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 684638826}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &708123536
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3933,11 +5254,23 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 713999143}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &728129976 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1011699674}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &731858038 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: dbeb26ac37e023c4fa15eee637bc8d88,
     type: 3}
   m_PrefabInstance: {fileID: 1102185031}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &738355867 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 142181450}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &747524493 stripped
 Transform:
@@ -4184,6 +5517,74 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 775718296}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &798637181
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -170.15999
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 79.32927
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &808406235
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4370,6 +5771,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!4 &826621956 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 2075230683}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &861893021 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: dbeb26ac37e023c4fa15eee637bc8d88,
@@ -4424,6 +5831,74 @@ Transform:
   - {fileID: 486038061}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &870163330
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -133.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 90.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (23)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &880525468
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4738,6 +6213,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b2eeffb23d9482458050ce584957367, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!4 &925130927 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1800307611}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &938916182
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4939,6 +6420,74 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 359864823}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &955769469
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -199.59999
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 90.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (17)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &972544055
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5025,12 +6574,86 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 419627084}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &983270727 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1027061830}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &994829902 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: dbeb26ac37e023c4fa15eee637bc8d88,
     type: 3}
   m_PrefabInstance: {fileID: 27297117}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1011699674
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -132.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 89.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (28)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1 &1021590245 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2404385588584233413, guid: fa84fa68d061eef4b9624aed5b930df6,
@@ -5073,6 +6696,92 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 1.2
   m_Center: {x: 0, y: 0.5, z: 0}
+--- !u!4 &1021748336 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1664409624}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1024654254 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1602629400}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1027061830
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -128.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 86.26073
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (33)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
+--- !u!4 &1036535665 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 117167638}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1044649493 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: dbeb26ac37e023c4fa15eee637bc8d88,
@@ -5362,6 +7071,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!4 &1092412414 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 798637181}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1099124249
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5529,6 +7244,18 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!4 &1106112678 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1811137135}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1119489777 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1292509253}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1126268231
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5722,6 +7449,86 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 815819942880621916, guid: 191fc0ede3898eb4da84994499978c45,
     type: 3}
   m_PrefabInstance: {fileID: 1129356955}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1133651751
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -210.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 88.890724
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
+--- !u!4 &1140577538 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 2027085662}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1141209674 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 870163330}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1156743070
 PrefabInstance:
@@ -6128,12 +7935,148 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!1001 &1292509253
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -135.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 90.08073
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (25)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!4 &1298908560 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: dbeb26ac37e023c4fa15eee637bc8d88,
     type: 3}
   m_PrefabInstance: {fileID: 819801895}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1325847217
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -224.59001
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.119217
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &1328633492
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6347,6 +8290,82 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 32.111153, y: 10.009953, z: 23.840878}
   m_Center: {x: 0, y: 1.0049777, z: 11.920438}
+--- !u!4 &1339892328 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1936624668}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1345340279
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1345340280}
+  m_Layer: 0
+  m_Name: Tanque de oleo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1345340280
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1345340279}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1829933869}
+  - {fileID: 1406263204}
+  - {fileID: 1523708820}
+  - {fileID: 1476123752}
+  - {fileID: 1141209674}
+  - {fileID: 925130927}
+  - {fileID: 207133054}
+  - {fileID: 1339892328}
+  - {fileID: 1036535665}
+  - {fileID: 1092412414}
+  - {fileID: 185312113}
+  - {fileID: 1106112678}
+  - {fileID: 1939916313}
+  - {fileID: 220721846}
+  - {fileID: 107001928}
+  - {fileID: 1928301651}
+  - {fileID: 443161147}
+  - {fileID: 40344116}
+  - {fileID: 1021748336}
+  - {fileID: 983270727}
+  - {fileID: 524447219}
+  - {fileID: 1979074222}
+  - {fileID: 698713658}
+  - {fileID: 1024654254}
+  - {fileID: 1475126850}
+  - {fileID: 522404840}
+  - {fileID: 826621956}
+  - {fileID: 1544208800}
+  - {fileID: 1119489777}
+  - {fileID: 728129976}
+  - {fileID: 1140577538}
+  - {fileID: 1543081796}
+  - {fileID: 1846595671}
+  - {fileID: 738355867}
+  - {fileID: 1876270544}
+  - {fileID: 163718232}
+  - {fileID: 155160191}
+  - {fileID: 2074807226}
+  - {fileID: 2011696297}
+  m_Father: {fileID: 1486179666}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1348007606 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 32153602267332e4c88c35c285ea0d95,
@@ -6359,6 +8378,79 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1376608097}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1371807304
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7009852138631625678, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -130.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -44.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 89.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (37)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &1376608097
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6526,11 +8618,231 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!1 &1399758979
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1399758980}
+  m_Layer: 0
+  m_Name: GAS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &1399758980
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1399758979}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 305760573903352107}
+  - {fileID: 660009386}
+  m_Father: {fileID: 1486179666}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1403499461
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7009852138631625678, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -129.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -44.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 87.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (36)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!4 &1406141896 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: dbeb26ac37e023c4fa15eee637bc8d88,
     type: 3}
   m_PrefabInstance: {fileID: 563161231}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1406263203
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 401670341856216990, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715260238479476118, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715260238479476118, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715260238479476118, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715260238479476118, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.3673131
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715260238479476118, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.93009734
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715260238479476118, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715260238479476118, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -136.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -197.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (38)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
+--- !u!4 &1406263204 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1406263203}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1406474865
 GameObject:
@@ -6881,6 +9193,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1469880872}
   m_CullTransparentMesh: 1
+--- !u!4 &1475126850 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1133651751}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1476123752 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 668809425}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1486179665
 GameObject:
   m_ObjectHideFlags: 0
@@ -6915,6 +9239,8 @@ Transform:
   - {fileID: 1610752103}
   - {fileID: 270434291}
   - {fileID: 1529250843}
+  - {fileID: 1399758980}
+  - {fileID: 1345340280}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1486179667
@@ -7341,6 +9667,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 32153602267332e4c88c35c285ea0d95, type: 3}
+--- !u!4 &1523708820 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1325847217}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1529250842
 GameObject:
   m_ObjectHideFlags: 0
@@ -7383,6 +9715,18 @@ Transform:
   - {fileID: 1129356956}
   m_Father: {fileID: 1486179666}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1543081796 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 421917978}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1544208800 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1884793825}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1556029121 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: dbeb26ac37e023c4fa15eee637bc8d88,
@@ -7510,6 +9854,74 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 11.855885, y: 8.000001, z: 32}
   m_Center: {x: 0, y: -0.00000047683716, z: 16}
+--- !u!1001 &1602629400
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -170.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 73.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &1605865756
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7980,6 +10392,74 @@ Transform:
   m_Children: []
   m_Father: {fileID: 368699990}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1664409624
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -126.41001
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 88.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (30)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &1671153072
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8992,6 +11472,74 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!1001 &1800307611
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -131.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 90.12927
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (26)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!4 &1805359657 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: dbeb26ac37e023c4fa15eee637bc8d88,
@@ -9053,6 +11601,74 @@ MonoBehaviour:
   dialogText: {fileID: 145510021}
   intervalBetweenSentences: 1
   inputManager: {fileID: 0}
+--- !u!1001 &1811137135
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -170.21999
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 74.89927
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &1814796265
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9213,6 +11829,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1826393507}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &1829933869 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 37974035}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1837524259
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9306,6 +11928,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!4 &1846595671 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 1371807304}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1847786263
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9479,6 +12107,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1855942951}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &1876270544 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 120375135}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1879406605
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9594,6 +12228,74 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 11.855885, y: 8.000001, z: 32}
   m_Center: {x: 0, y: -0.00000047683716, z: 16}
+--- !u!1001 &1884793825
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -173.54695
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 50.07105
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &1886602374
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9825,6 +12527,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 815819942880621916, guid: 191fc0ede3898eb4da84994499978c45,
     type: 3}
   m_PrefabInstance: {fileID: 1913644436}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1928301651 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 2065999456}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1934271288
 PrefabInstance:
@@ -10176,6 +12884,80 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 58fdb7b14b46e664294ca0de1bc72d78, type: 3}
+--- !u!1001 &1936624668
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -128.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 88.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (32)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
+--- !u!4 &1939916313 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 62214063}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1941230821
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10433,6 +13215,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 708123536}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &1979074222 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 31328198}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1979601785
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10606,6 +13394,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!4 &2011696297 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 515010407}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &2012098183 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1882033502273034710, guid: 1642bb721b5bfcf4baaab872e9d80e8e,
@@ -10727,6 +13521,142 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 11.855885, y: 8.000001, z: 32}
   m_Center: {x: 0, y: -0.00000047683716, z: 16}
+--- !u!1001 &2027085662
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -127.420006
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 89.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (31)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
+--- !u!1001 &2065999456
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -172.53696
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 48.72105
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &2073342355
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10820,6 +13750,148 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbeb26ac37e023c4fa15eee637bc8d88, type: 3}
+--- !u!4 &2074807226 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+    type: 3}
+  m_PrefabInstance: {fileID: 97599865}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2075230683
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -237.50002
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 73.33073
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (21)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
+--- !u!1001 &2080897477
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -237.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 75.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (20)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!1001 &2085996871
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10888,6 +13960,74 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 15bfc68e016aa844db365cd33698d3ea, type: 3}
+--- !u!1001 &2096270229
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1345340280}
+    m_Modifications:
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -134.26001
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -46.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 88.73073
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7403892640055887290, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923020919907901184, guid: b37aed40ed14d78409f20d7778ec5006,
+        type: 3}
+      propertyPath: m_Name
+      value: tanque de oleo (24)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b37aed40ed14d78409f20d7778ec5006, type: 3}
 --- !u!4 &2106960755 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 32153602267332e4c88c35c285ea0d95,
@@ -10998,6 +14138,100 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 6894d1c146c93f949b14850a882b352c,
     type: 3}
   m_PrefabInstance: {fileID: 1671153072}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &305760573903352106
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1399758980}
+    m_Modifications:
+    - target: {fileID: 977081453890228612, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1996437998710019182, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6725173906716527970, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7355740110740083965, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_Name
+      value: GAS
+      objectReference: {fileID: 0}
+    - target: {fileID: 7355740110740083965, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -248.87695
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -42.738503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 173.45105
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 01c2470bef1e54e408349c8d8f290ced, type: 3}
+--- !u!4 &305760573903352107 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7881024487480692295, guid: 01c2470bef1e54e408349c8d8f290ced,
+    type: 3}
+  m_PrefabInstance: {fileID: 305760573903352106}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &4574854043321426265 stripped
 Transform:
