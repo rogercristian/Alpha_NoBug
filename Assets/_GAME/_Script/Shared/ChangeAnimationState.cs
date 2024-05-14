@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class ChangeAnimationState : MonoBehaviour
@@ -16,10 +14,10 @@ public class ChangeAnimationState : MonoBehaviour
     private void HandlerOnAnimationChange(string newState)
     {
         Animator animator = GetComponent<Animator>();
-        if(currentState == newState) { return; }
-       // animator.Rebind();
-        animator.Play(newState, -1, .1f);
+        if (currentState == newState) { return; }
+        // animator.Rebind();
+        animator.Play(newState);
         currentState = newState;
-       
+
     }
 }
