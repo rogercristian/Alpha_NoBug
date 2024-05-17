@@ -13,8 +13,7 @@ public class PlayerUseWeapon : MonoBehaviour
         if (inputManager != null) return;
         inputManager = GetComponentInParent<InputManager>();
         GameEvents.Instance.OnStartDialog += HandleOnStartDialog;
-        GameEvents.Instance.OnFinishDialog += HandlerOnFinishDialog;
-       
+        GameEvents.Instance.OnFinishDialog += HandlerOnFinishDialog;       
     }
 
     private void OnDestroy()

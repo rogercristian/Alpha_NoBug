@@ -10,10 +10,12 @@ public class PlayerInputHandler : MonoBehaviour
     private void Awake()
     {
         if (playerPrefabs != null)
-            movingPlayer = Instantiate(playerPrefabs[GetComponent<PlayerInput>().playerIndex], 
+            movingPlayer = Instantiate(playerPrefabs[GetComponent<PlayerInput>().playerIndex],
                 transform.position, transform.rotation, transform).GetComponent<MovingPlayer>();
+        if (TryGetComponent<CarControl>(out CarControl carControl))
+            carControl = Instantiate(playerPrefabs[GetComponent<PlayerInput>().playerIndex],
+                transform.position, transform.rotation).GetComponent<CarControl>();
     }
-
     public MovingPlayer GetMovingPlayer()
     {
         return movingPlayer;

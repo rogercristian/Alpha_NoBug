@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51e3adf9a2093004386e12a3391c8665, type: 3}
+  m_Name: weapon_Mecha_Laucher
+  m_EditorClassIdentifier: 
+  weaponName: Marve Laucher
+  description: "Lan\xE7a misseis"
+  damage: 50
+  lifeProjectileDuration: 2
+  projectileSpeed: 20
+  fireRate: 2
+  projectile: {fileID: 2720834461677855825, guid: b73b3b179f54ca447a5b690c563c3fe6,
+    type: 3}
+  isPursuit: 0
+  maxDegreesDelta: 100
+  weaponPhoto: {fileID: 0}
+  weponType: 2

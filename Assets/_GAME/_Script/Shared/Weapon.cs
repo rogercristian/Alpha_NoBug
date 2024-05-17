@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class Weapon : MonoBehaviour
@@ -16,7 +17,7 @@ public class Weapon : MonoBehaviour
             shootCountDown = weaponData.fireRate;
         }
     }
-
+ 
     void SelectedWeaponShoot()
     {
         foreach (var item in firePoint)
@@ -32,7 +33,7 @@ public class Weapon : MonoBehaviour
 
                     break;
                 case WeaponData.WeponType.MultipleShoot:
-
+                   
                     Instantiate(weaponData.projectile, item.position, item.rotation);
 
                     break;
@@ -44,4 +45,5 @@ public class Weapon : MonoBehaviour
             }
         }
     }
+   
 }
