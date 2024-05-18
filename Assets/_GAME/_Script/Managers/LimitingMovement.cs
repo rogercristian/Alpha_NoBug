@@ -26,6 +26,7 @@ public class LimitingMovement : MonoBehaviour
     void Update()
     {
         if (!validate) return;
+
         Distancia();
     }
     void Distancia()

@@ -28,9 +28,9 @@ public class PlayerUseWeapon : MonoBehaviour
     {       
         if (!canShoot) return;
 
-        float buttonRt = inputManager.GetButtonRtPressed();
+        //float buttonRt = inputManager.GetButtonRtPressed();
 
-        if (buttonRt > 0.1f || inputManager.GetInteractPressed())
+        if (/*buttonRt > 0.1f ||*/ inputManager.GetInteractPressed())
         {
             StartCoroutine(DelayFrame());
             weapon.Shoot();

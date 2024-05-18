@@ -2,14 +2,14 @@ using Cinemachine;
 using UnityEngine;
 public class FindPlayer : MonoBehaviour
 {
-    CinemachineTargetGroup targetGroup;
+  //  CinemachineTargetGroup targetGroup;
 
     Transform target;
     private void OnEnable()
     {
         GameEvents.Instance.OnSeekPlayer += Handler_OnSeekPlayer;
        
-            targetGroup = GetComponent<CinemachineTargetGroup>();
+         //   targetGroup = GetComponent<CinemachineTargetGroup>();
 
     }
     private void OnDestroy()
@@ -21,7 +21,7 @@ public class FindPlayer : MonoBehaviour
         MovingPlayer input = FindObjectOfType<MovingPlayer>();
 
         target = input.transform;
-        targetGroup.AddMember(target, 1, 1);
+      //  targetGroup.AddMember(target, 1, 1);
 
     }
 }

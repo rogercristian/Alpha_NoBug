@@ -28,8 +28,9 @@ public class CarControl : MonoBehaviour
     void Update()
     {
 
-        float vInput = Input.GetAxis("Vertical");
+        float vInput = inputManager.GetButtonRtPressed(); /*Input.GetAxis("Vertical");*/
         float hInput = Input.GetAxis("Horizontal");
+        float backInput = -inputManager.GetButtonLtPressed();
 
         // Calculate current speed in relation to the forward direction of the car
         // (this returns a negative number when traveling backwards)
@@ -73,7 +74,7 @@ public class CarControl : MonoBehaviour
             {
                 // If the user is trying to go in the opposite direction
                 // apply brakes to all wheels
-                wheel.WheelCollider.brakeTorque = Mathf.Abs(vInput) * brakeTorque;
+                wheel.WheelCollider.brakeTorque = Mathf.Abs(backInput) * brakeTorque;
                 wheel.WheelCollider.motorTorque = 0;
             }
         }
