@@ -32,7 +32,7 @@ public class PlayerUseWeapon : MonoBehaviour
 
         if (/*buttonRt > 0.1f ||*/ inputManager.GetInteractPressed())
         {
-            StartCoroutine(DelayFrame());
+           // StartCoroutine(DelayFrame());
             weapon.Shoot();
         }
     }

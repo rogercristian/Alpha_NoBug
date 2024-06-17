@@ -15,12 +15,12 @@ MonoBehaviour:
   weaponName: Marve Laucher
   description: "Lan\xE7a misseis"
   damage: 50
-  lifeProjectileDuration: 2
+  lifeProjectileDuration: 1.9
   projectileSpeed: 20
   fireRate: 2
   projectile: {fileID: 2720834461677855825, guid: b73b3b179f54ca447a5b690c563c3fe6,
     type: 3}
-  isPursuit: 0
+  isPursuit: 1
   maxDegreesDelta: 100
   weaponPhoto: {fileID: 0}
   weponType: 2

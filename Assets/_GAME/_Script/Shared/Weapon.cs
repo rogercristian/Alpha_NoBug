@@ -1,4 +1,3 @@
-using System.Collections;
 using UnityEngine;
 
 public class Weapon : MonoBehaviour
@@ -17,7 +16,7 @@ public class Weapon : MonoBehaviour
             shootCountDown = weaponData.fireRate;
         }
     }
- 
+
     void SelectedWeaponShoot()
     {
         foreach (var item in firePoint)
@@ -28,14 +27,18 @@ public class Weapon : MonoBehaviour
                     Instantiate(weaponData.projectile, item.position, item.rotation);
                     break;
                 case WeaponData.WeponType.TripleShoot:
-
                     Instantiate(weaponData.projectile, item.position, item.rotation);
-
                     break;
                 case WeaponData.WeponType.MultipleShoot:
-                   
-                    Instantiate(weaponData.projectile, item.position, item.rotation);
-
+                    //weaponData.projectile = ObjectPooler.SharedInstance.GetPooledObject();
+                    //if(weaponData.projectile != null)
+                    //{
+                    //    weaponData.projectile.transform.position = item.position;
+                    //    weaponData.projectile.transform.rotation = item.rotation;
+                    //    weaponData.projectile.SetActive(true);
+                    //}
+                    // Instantiate(weaponData.projectile, item.position, item.rotation);
+                    ObjectPooler.SharedInstance.SpawnFromPool(weaponData.weaponName, item.position, item.rotation);
                     break;
                 case WeaponData.WeponType.PursuitShoot:
                     Instantiate(weaponData.projectile, item.position, item.rotation);
@@ -45,5 +48,5 @@ public class Weapon : MonoBehaviour
             }
         }
     }
-   
+
 }
