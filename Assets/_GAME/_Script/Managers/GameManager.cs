@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
     public static GameManager instance = null;
 
     [SerializeField] List<Room> rooms;
-    [SerializeField] CinemachineTargetGroup targetGroup;
+    [SerializeField] Transform cameraTransform;
 
     [field: SerializeField] private Room currentRoom;
 
@@ -18,7 +18,7 @@ public class GameManager : MonoBehaviour
         {
             currentRoom?.DisableCamera();
             currentRoom = value;
-            currentRoom.EnableCamera(targetGroup.transform);
+            currentRoom.EnableCamera(cameraTransform);
         }
     }
     private void Awake() => instance = this;

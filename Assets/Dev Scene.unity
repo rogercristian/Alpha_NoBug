@@ -39,7 +39,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 15.471094, g: 16.207796, b: 15.84556, a: 1}
+  m_IndirectSpecularColor: {r: 6170.2397, g: 6170.2397, b: 6170.2397, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -4463,7 +4463,7 @@ PrefabInstance:
     - target: {fileID: 6155373532903228923, guid: 0798b7d214fa87b4c82dee37d379624c,
         type: 3}
       propertyPath: m_Name
-      value: Target Group
+      value: Camera Transform
       objectReference: {fileID: 0}
     - target: {fileID: 6155373532903228923, guid: 0798b7d214fa87b4c82dee37d379624c,
         type: 3}
@@ -4977,13 +4977,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 611637453}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.9608955, y: -0.026380012, z: 0.25747114, w: 0.09845156}
+  m_LocalRotation: {x: 0.46174863, y: 0, z: 0, w: 0.8870109}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 368699990}
-  m_LocalEulerAnglesHint: {x: 168.3, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 55, y: 0, z: 0}
 --- !u!114 &611637456
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5112,6 +5112,57 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 8220887774172987379}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &631345264
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 631345265}
+  - component: {fileID: 631345266}
+  m_Layer: 0
+  m_Name: ObjectPooler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &631345265
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 631345264}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1627219678}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &631345266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 631345264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f37370b9f5278240b036d8980d514e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pools:
+  - tag: Bazuka
+    prefab: {fileID: 493451203355720252, guid: 608e8cfdf5ff9ab499604d88163118e0, type: 3}
+    size: 3
+  - tag: Pig Recruit Weapon
+    prefab: {fileID: 493451203355720252, guid: f144c2ba66044e342a0d4153149d9e02, type: 3}
+    size: 10
 --- !u!1001 &646188017
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5738,6 +5789,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 3766760828807126839, guid: 1642bb721b5bfcf4baaab872e9d80e8e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8194,7 +8250,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Profile: {fileID: 11400000, guid: 8ba92e2dd7f884a0f88b98fa2d235fe7, type: 2}
-  m_StaticLightingSkyUniqueID: 4
+  m_StaticLightingSkyUniqueID: 1
   m_StaticLightingCloudsUniqueID: 0
   m_StaticLightingVolumetricClouds: 1
 --- !u!4 &1034315254
@@ -10076,6 +10132,11 @@ PrefabInstance:
       propertyPath: targetGroup
       value: 
       objectReference: {fileID: 528758414}
+    - target: {fileID: 2221835327389940045, guid: d9b243268f41a3f4b908b172cd52752e,
+        type: 3}
+      propertyPath: cameraTransform
+      value: 
+      objectReference: {fileID: 482233972}
     - target: {fileID: 2221835327389940045, guid: d9b243268f41a3f4b908b172cd52752e,
         type: 3}
       propertyPath: rooms.Array.size
@@ -12043,6 +12104,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2435710}
+  - {fileID: 631345265}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1629741374 stripped

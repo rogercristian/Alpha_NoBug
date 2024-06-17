@@ -1,26 +1,29 @@
 using System.Collections;
 using UnityEngine;
 
-public class Projectile : MonoBehaviour
+public class Projectile : MonoBehaviour, IPooledObject
 {
     Rigidbody body;
     [SerializeField] WeaponData weaponData;
 
     Transform target;
 
-    void Start()
+  public void OnObjectSpawn()
     {
         body = GetComponent<Rigidbody>();
         if (weaponData.isPursuit) return;
-        body.AddForce(transform.forward * weaponData.projectileSpeed, ForceMode.Impulse);
-        Destroy(gameObject, weaponData.lifeProjectileDuration);
+        //  body.AddForce(transform.forward * weaponData.projectileSpeed, ForceMode.Impulse);
+        transform.position += transform.forward * weaponData.projectileSpeed * Time.deltaTime;
+        StartCoroutine(Esperar());
     }
-    private void FixedUpdate()
+    private void Update()
     {
+        OnObjectSpawn();
         if (weaponData.isPursuit)
         {
             StartCoroutine(DelayPorsuit());
-            body.AddForce(transform.forward * weaponData.projectileSpeed, ForceMode.Impulse);
+            //body.AddForce(transform.forward * weaponData.projectileSpeed, ForceMode.Impulse);
+            transform.position += transform.forward * weaponData.projectileSpeed * Time.deltaTime;
             GetPorsuit();
         }
     }
@@ -30,7 +33,7 @@ public class Projectile : MonoBehaviour
         //  StartCoroutine(DelayPorsuit());
         target = FindAnyObjectByType<Enemy>()?.transform;
         Quaternion targetRotation;
-        Destroy(gameObject, weaponData.lifeProjectileDuration);
+        StartCoroutine(Esperar());
         if (target != null)
         {
             targetRotation = Quaternion.LookRotation(target.position - transform.position);
@@ -47,10 +50,15 @@ public class Projectile : MonoBehaviour
         {
             damage.hpManager.TakeDamage(weaponData.damage);
         }
-        Destroy(gameObject);
+        gameObject.SetActive(false);
     }
     IEnumerator DelayPorsuit()
     {
         yield return new WaitForEndOfFrame();
+    }
+    IEnumerator Esperar()
+    {
+        yield return new WaitForSeconds(weaponData.lifeProjectileDuration);
+        gameObject.SetActive(false);
     }
 }

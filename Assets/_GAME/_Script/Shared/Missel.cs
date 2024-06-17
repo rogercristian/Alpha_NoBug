@@ -7,7 +7,7 @@ public class Missel : MonoBehaviour, IPooledObject
     [SerializeField] WeaponData weaponData;
     public void OnObjectSpawn()
     {
-        float rand = Random.Range(1f, 2f);
+        float rand = Random.Range(1f, 3f);
         body = GetComponent<Rigidbody>();
         //body.AddForce(transform.position += transform.forward * weaponData.projectileSpeed * rand, ForceMode.Impulse);
         transform.position += transform.forward * weaponData.projectileSpeed * rand * Time.deltaTime;

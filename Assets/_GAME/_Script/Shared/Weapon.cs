@@ -24,24 +24,16 @@ public class Weapon : MonoBehaviour
             switch (weaponData.weponType)
             {
                 case WeaponData.WeponType.SingleShoot:
-                    Instantiate(weaponData.projectile, item.position, item.rotation);
+                    ObjectPooler.SharedInstance.SpawnFromPool(weaponData.weaponName, item.position, item.rotation);
                     break;
                 case WeaponData.WeponType.TripleShoot:
-                    Instantiate(weaponData.projectile, item.position, item.rotation);
+                    ObjectPooler.SharedInstance.SpawnFromPool(weaponData.weaponName, item.position, item.rotation);
                     break;
-                case WeaponData.WeponType.MultipleShoot:
-                    //weaponData.projectile = ObjectPooler.SharedInstance.GetPooledObject();
-                    //if(weaponData.projectile != null)
-                    //{
-                    //    weaponData.projectile.transform.position = item.position;
-                    //    weaponData.projectile.transform.rotation = item.rotation;
-                    //    weaponData.projectile.SetActive(true);
-                    //}
-                    // Instantiate(weaponData.projectile, item.position, item.rotation);
+                case WeaponData.WeponType.MultipleShoot:                   
                     ObjectPooler.SharedInstance.SpawnFromPool(weaponData.weaponName, item.position, item.rotation);
                     break;
                 case WeaponData.WeponType.PursuitShoot:
-                    Instantiate(weaponData.projectile, item.position, item.rotation);
+                    ObjectPooler.SharedInstance.SpawnFromPool(weaponData.weaponName, item.position, item.rotation);
                     break;
                 default:
                     break;
